@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+
+  
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+
+.athu1 {
+  background-image: url(./356934539_293296593367615_8522220360700433665_n.jpg);
+  background-size: 200px ;
+
+}
+
+
+.athu2 { 
+  background-image: url(./356183286_232680283040609_7385336711281335023_n.jpg);
+  background-size: 200px;
+}
+
+
+.athu3 {
+  background-image: url(./356181466_6624487860998950_7195124868866991040_n.jpg);
+  background-size: 200px 200px;
+
+}
+
+.athu4 {
+  background-image: url(./Vikram-6.avif);
+  background-size: 200px 200px;
+
+}
+
